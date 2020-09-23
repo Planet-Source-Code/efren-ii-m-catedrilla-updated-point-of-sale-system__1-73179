@@ -1,0 +1,29 @@
+=======================
+PLEASE VOTE FOR ME!
+=======================
+NOTE: Do forget to register the OCX
+
+This is a simple POS system
+with a role base security system
+and a backend of mysql
+
+===============================
+username: admin
+password: masterkey
+-------------------------------
+Mysql login
+username: root-default username
+password: root-default password
+===============================\
+
+Credits to other programmers
+specially to philip naparan
+for the icons and some ideas.
+
+==============================
+GOD BLESS US ALL!
+==============================
+TATAK PINOY
+==============================
+email address: woodenspoon_uto@yahoo.com
+cellphone#: +639128081019
